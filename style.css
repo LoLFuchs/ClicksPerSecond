@@ -1,0 +1,43 @@
+body { 
+    background-color: #282b30;
+}
+
+.text {
+
+    color:aliceblue;
+    font-size: 10vh;
+}
+
+.card {
+    background-color: grey;
+    height: 70vh;
+    width: 47vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Abschnitt {
+    height: 50vh;
+    width: 49vw;
+}
+
+.btn-secondary {
+    height: 40vh;
+    width: 40vw;
+
+}
+
+header {
+    height: 40vh;
+}
+
+.dropdown {
+    height: 1vh;
+    width: 8vw;
+}
+
+
+span {
+    color:white;
+}
